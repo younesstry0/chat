@@ -1,1 +1,1 @@
-nice [object Promise]
+Hello, World!
